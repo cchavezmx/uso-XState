@@ -1,10 +1,8 @@
 # uso-XState
 Ejemplo de xstate, login y consumo de api
 
-# Sobre esta Repo-demo
-A [Demo](https://codesandbox.io/s/uso-de-xstate-forked-q05hj?file=/src/components/Story/index.js) esta demo contiene ejemplo de login de usuario, y consumo de la api de hacknews
-con el uso de xsate para recibir la informacion. 
-
+## Sobre esta Repo
+[Demo](https://codesandbox.io/s/uso-de-xstate-forked-q05hj?file=/src/components/Story/index.js) esta demo contiene la forma de controlar el login de usuario, y consumo de la api
 
 ## Xstate
 
